@@ -29,7 +29,7 @@
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=codemedic213515&show_icons=true&line_height=30&include_all_commits=true&count_private=true&radius=8&theme=nightowl" height="300" alt="Codemedic213515 activity-graph" />
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codemedic213515&theme=nightowl&show_icons=true&line_height=30&include_all_commits=true&count_private=true"  alt="Codemedic213515's GitHub Stats Graph" style="border: 1px solid #CDB4DB; border-radius: 8px;"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codemedic213515&theme=nightowl&show_icons=true&line_height=30&include_all_commits=true&count_private=true"  alt="Codemedic213515's GitHub Stats Graph" style="border: 1px solid #AAAAAA; border-radius: 8px;"/>
 
 </div>
 
