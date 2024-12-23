@@ -17,13 +17,13 @@
   height="150" 
   alt="Codemedic213515's Repos Per Language" 
   style="border: 1px solid #CDB4DB; border-radius: 8px;"
-/>
+  />
   <img 
   src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=codemedic213515&theme=nightowl&show_icons=true&line_height=30&include_all_commits=true&count_private=true" 
   height="150" 
   alt="Codemedic213515's Most Committed Language" 
   style="border: 1px solid #CDB4DB; border-radius: 8px;"
-/>
+  />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=codemedic213515&theme=nightowl&show_icons=true&line_height=30&include_all_commits=true&count_private=true" height="150" alt="Codemedic213515's GitHub Stats Graph" 
   style="border: 1px solid #CDB4DB; border-radius: 8px;"/>
 
