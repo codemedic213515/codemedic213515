@@ -5,7 +5,7 @@
 </p>
 
 ###
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rahulkarda&theme=radical&hide_border=true)](https://github.com/rahulkarda" alt="Rahul's GitHub Stats Graph"/>
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codemedic213515&theme=radical&hide_border=true)](https://github.com/codemedic213515" alt="codemedic213515's GitHub Stats Graph"/>
 <div align="center">
  <img src="https://amateur0911.vercel.app/api?username=codemedic213515&include_all_commits=true&count_private=true&show_icons=true&line_height=30&title_color=CDB4DB&icon_color=CDB4DB&text_color=D3D3D3&bg_color=0A0A0A" height="150" alt="Codemedic213515 Github Stats">
 <img src="https://amateur0911.vercel.app/api/top-langs/?username=codemedic213515&layout=compact&theme=dark&bg_color=0A0A0A" height="150" alt="Codemedic213515 Top Languages"/>
