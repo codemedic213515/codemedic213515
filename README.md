@@ -116,10 +116,10 @@
       <img src="https://skillicons.dev/icons?i=postman" width="45" height="45" alt="postman" />
       <br>Postman
     </td>
-   <td align="center" width="90">
- <img src="https://github.com/codemedic213515/codemedic213515/ant-design-2.svg" width="45 height="45" alt="antD"/>
-  <br>Ant Design
-</td>
+    <td align="center" width="90">
+     <img src="https://github.com/codemedic213515/codemedic213515/blob/dev/ant-design-2.svg" width="45 height="45" alt="antD"/>
+     <br>Ant Design
+    </td>
     <td align="center" width="90">
      <img src="https://skillicons.dev/icons?i=maven" width="45" height="45" alt="Apache2" />
       <br>Apache2
