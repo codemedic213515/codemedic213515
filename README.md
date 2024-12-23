@@ -127,8 +127,8 @@
   </tr>
   <tr>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=postman" width="45" height="45" alt="D3.js" />
-      <br>Postman
+      <img src="https://skillicons.dev/icons?i=tailwind" width="45" height="45" alt="D3.js" />
+      <br>Tailwind CSS
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=materialui" width="45" height="45" alt="MUI v5" />
