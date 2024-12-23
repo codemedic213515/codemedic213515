@@ -25,7 +25,7 @@
   alt="Codemedic213515's Most Committed Language" 
   style="border: 2px solid #AAAAAA; border-radius: 8px;"
   />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=codemedic213515&theme=nightowl&show_icons=true&line_height=30&include_all_commits=true&count_private=true" height="150" alt="Codemedic213515's GitHub Stats Graph" 
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=codemedic213515&theme=nightowl&show_icons=true&line_height=30&include_all_commits=true&count_private=true&utcOffset=8" height="150" alt="Codemedic213515's GitHub Stats Graph" 
   style="border: 2px solid #AAAAAA; border-radius: 8px;"/>
  </div>
 
