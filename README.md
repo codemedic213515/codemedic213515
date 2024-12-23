@@ -1,1 +1,1 @@
-<img src="https://amateur0911.vercel.app/api?username=your-username&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+<img src="https://amateur0911.vercel.app/api?username=codemedic213515&include_all_commits=true&count_private=true" alt="GitHub Stats" />
