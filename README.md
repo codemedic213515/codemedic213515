@@ -117,8 +117,8 @@
       <br>Postman
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=graphql" width="45" height="45" alt="graphql" />
-      <br>GraphQL
+      <img src="https://skillicons.dev/icons?i=antd" width="45" height="45" alt="antd" />
+      <br>AntDesign
     </td>
     <td align="center" width="90">
      <img src="https://skillicons.dev/icons?i=maven" width="45" height="45" alt="Apache2" />
@@ -127,7 +127,7 @@
   </tr>
   <tr>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=tailwind" width="45" height="45" alt="D3.js" />
+      <img src="https://skillicons.dev/icons?i=tailwind" width="45" height="45" alt="Tailwind CSS" />
       <br>Tailwind CSS
     </td>
     <td align="center" width="90">
