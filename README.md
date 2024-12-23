@@ -5,13 +5,14 @@
 </p>
 
 ###
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codemedic213515&theme=radical&hide_border=true)](https://github.com/codemedic213515" alt="codemedic213515's GitHub Stats Graph"/>
+
 <div align="center">
  <img src="https://amateur0911.vercel.app/api?username=codemedic213515&include_all_commits=true&count_private=true&show_icons=true&line_height=30&title_color=CDB4DB&icon_color=CDB4DB&text_color=D3D3D3&bg_color=0A0A0A" height="150" alt="Codemedic213515 Github Stats">
 <img src="https://amateur0911.vercel.app/api/top-langs/?username=codemedic213515&layout=compact&theme=dark&bg_color=0A0A0A" height="150" alt="Codemedic213515 Top Languages"/>
 
   <img src="https://github-profile-trophy.vercel.app?username=codemedic213515&column=9&row=2&margin-w=15&padding=10&&theme=dracula&no-bg=true" height="150" alt="Codemedic213515 graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=codemedic213515&radius=8&theme=dracula&show_icons=true&bg_color=0A0A0A&area=true&order=5&hide_title=false" height="300" alt="Codemedic213515 activity-graph"  />
+   <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codemedic213515&theme=radical&hide_border=true)](https://github.com/codemedic213515"  height="300" alt="codemedic213515's GitHub Stats Graph"/>
 </div>
 
 ###
