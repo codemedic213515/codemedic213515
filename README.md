@@ -25,7 +25,7 @@
   alt="Codemedic213515's Most Committed Language" 
   style="border: 2px solid #AAAAAA; border-radius: 8px;"
   />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=codemedic213515&theme=nightowl&show_icons=true&line_height=30&include_all_commits=true&count_private=true" height="150" alt="Codemedic213515's GitHub Stats Graph" 
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=codemedic213515&theme=nightowl&show_icons=true&line_height=30&include_all_commits=true&count_private=true&utcOffset=9" height="150" alt="Codemedic213515's GitHub Stats Graph" 
   style="border: 2px solid #AAAAAA; border-radius: 8px;"/>
  </div>
 
@@ -117,8 +117,8 @@
       <br>Postman
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=graphql" width="45" height="45" alt="graphql" />
-      <br>GraphQL
+     <img src="https://github.com/codemedic213515/codemedic213515/blob/dev/ant-design-2.svg" width="45 height="45" alt="antD"/>
+     <br>Ant Design
     </td>
     <td align="center" width="90">
      <img src="https://skillicons.dev/icons?i=maven" width="45" height="45" alt="Apache2" />
@@ -127,8 +127,8 @@
   </tr>
   <tr>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=postman" width="45" height="45" alt="D3.js" />
-      <br>Postman
+      <img src="https://skillicons.dev/icons?i=tailwind" width="45" height="45" alt="Tailwind CSS" />
+      <br>Tailwind CSS
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=materialui" width="45" height="45" alt="MUI v5" />
