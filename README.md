@@ -117,8 +117,8 @@
       <br>Postman
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=antd" width="45" height="45" alt="antd" />
-      <br>AntDesign
+      <img src="https://gw.alipayobjects.com/zos/rmsportal/kZzEzemZyKLKFsojXItE.png" alt="Ant Design Icon" width="55" height="55" />
+      <br>Ant Design
     </td>
     <td align="center" width="90">
      <img src="https://skillicons.dev/icons?i=maven" width="45" height="45" alt="Apache2" />
