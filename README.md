@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="https://github.com/climax1115">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=45&duration=2000&pause=1000&color=0C6CF7&center=true&vCenter=true&random=false&width=1200&height=100&lines=Full+Stack+Blockchain+Developer;5+years+of+experience;High+productivity+%26+Best+communication">
+  <a href="https://github.com/codemedic213515">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=45&duration=2000&pause=1000&color=AAAAAA&center=true&vCenter=true&random=false&width=1200&height=100&lines=Full+Stack+Web+Developer;Ai+Chatbot+Automation;Web+/+Logo+Designer">
   </a>
 </p>
 
@@ -10,7 +10,7 @@
  <img src="https://amateur0911.vercel.app/api?username=codemedic213515&include_all_commits=true&count_private=true&show_icons=true&line_height=30&title_color=CDB4DB&icon_color=CDB4DB&text_color=D3D3D3&bg_color=0A0A0A" height="150" alt="Codemedic213515 Github Stats">
 <img src="https://amateur0911.vercel.app/api/top-langs/?username=codemedic213515&layout=compact&theme=dark&bg_color=0A0A0A" height="150" alt="Codemedic213515 Top Languages"/>
 
-  <img src="https://github-profile-trophy.vercel.app?username=codemedic213515&column=9&row=1&margin-w=15&padding=10&&theme=dracula&no-bg=true" height="150" alt="Codemedic213515 graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=codemedic213515&column=9&row=2&margin-w=15&padding=10&&theme=dracula&no-bg=true" height="150" alt="Codemedic213515 graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=codemedic213515&radius=8&theme=dracula&show_icons=true&bg_color=0A0A0A&area=true&order=5&hide_title=false" height="300" alt="Codemedic213515 activity-graph"  />
 </div>
 
@@ -18,7 +18,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
-<table align="center" style="background-color:#0A0A0A; border-color:#000000;">
+<table align="center" style="background-color:#0A0A0A;">
   <tr>
  <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=js" width="45" height="45" alt="JavaScript" />
