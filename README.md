@@ -116,10 +116,12 @@
       <img src="https://skillicons.dev/icons?i=postman" width="45" height="45" alt="postman" />
       <br>Postman
     </td>
-    <td align="center" width="90">
-      <img src="https://gw.alipayobjects.com/zos/rmsportal/kZzEzemZyKLKFsojXItE.png" alt="Ant Design Icon" width="55" height="55" />
-      <br>Ant Design
-    </td>
+   <td align="center" width="90">
+  <svg xmlns="http://www.w3.org/2000/svg" width="55" height="55" viewBox="0 0 1024 1024">
+    <path fill="#1890FF" d="M557.6 74.2L839 355.7 557.6 637.1l-74.1-74.1 230.7-230.6-230.7-230.6zM399 172.2L172.2 399l226.8 226.8 226.8-226.8zM399 684.8L172.2 911.6H623.8L850.6 684.8H399z"></path>
+  </svg>
+  <br>Ant Design
+</td>
     <td align="center" width="90">
      <img src="https://skillicons.dev/icons?i=maven" width="45" height="45" alt="Apache2" />
       <br>Apache2
