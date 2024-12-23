@@ -1,10 +1,9 @@
 
 <br />
 <br />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=codemedic213515&include_all_commits=true&count-private=true&show_icons=true&line_height=30&title_color=CDB4DB&icon_color=CDB4DB&text_color=D3D3D3&bg_color=0A0A0A" alt="Github Stats">
+[![Arribass's GitHub stats](https://github-readme-stats.vercel.app/api?username=codemedic213515&count_private=true)](https://github.com/arribass/github-readme-stats)
 <br />
-<br />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codemedic213515&layout=compact&theme=buefy&hide_border=true" />
+[![Arribass Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codemedic213515)](https://github.com/arribass/github-readme-stats)
 <br />
 <br />
 <br />
