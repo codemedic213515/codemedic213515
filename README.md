@@ -1,9 +1,7 @@
+# Hi there, I'm [Codemedic] 👋
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=codemedic213515&show_icons=true&theme=radical)
+## Contributions
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=codemedic213515&layout=compact&theme=radical)
+![Your contributions](https://github-readme-stats.vercel.app/api?username=codemedic213515&show_icons=true&hide_title=true&count_private=true&theme=radical)
 
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=codemedic213515&count-private=true&theme=dark&background=000000)](https://git.io/streak-stats)
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=codemedic213515&count-private=true&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=codemedic213515&count-private=true&layout=compact&theme=dark)
+![Your top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=codemedic213515&layout=compact&theme=radical)
