@@ -10,7 +10,7 @@
   <img src="https://amateur0911.vercel.app/api?username=codemedic213515&include_all_commits=true&count_private=true&show_icons=true&line_height=30&theme=nightowl" height="150" alt="Codemedic213515 Github Stats">
   <img src="https://amateur0911.vercel.app/api/top-langs/?username=codemedic213515&layout=compact&show_icons=true&line_height=30&theme=nightowl" height="150" alt="Codemedic213515 Top Languages"/>
 
-  <img src="https://amateur0914.vercel.app?username=codemedic213515&column=9&row=2&margin-w=15&padding=10&show_icons=true&line_height=30&theme=algolia" height="150" alt="Codemedic213515 graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=codemedic213515&column=9&row=2&margin-w=15&padding=10&show_icons=true&line_height=30&theme=algolia" height="150" alt="Codemedic213515 graph"  />
  <div>
    
   <img 
