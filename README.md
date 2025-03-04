@@ -39,125 +39,64 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
+<h3 align="left">Languages and Tools:</h3>
+<p align="center">
 <table align="center" style="background-color:#0A0A0A;">
+  
+  <!-- Programming Languages -->
+  <tr><th colspan="8" align="center" style="color:white;">Programming Languages</th></tr>
   <tr>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=js" width="45" height="45" alt="JavaScript" />
-      <br>JavaScript
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=typescript" width="45" height="45" alt="TypeScript" />
-      <br>TypeScript
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=python" width="45" height="45" alt="Python" />
-      <br>Python
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=rust" width="45" height="45" alt="Rust" />
-      <br>Rust
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=solidity" width="45" height="45" alt="Solidity" />
-      <br>Solidity
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=java" width="45" height="45" alt="Java" />
-      <br>Java
-    </td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=js" width="45" height="45" alt="JavaScript" /><br>JavaScript</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=typescript" width="45" height="45" alt="TypeScript" /><br>TypeScript</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=python" width="45" height="45" alt="Python" /><br>Python</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=rust" width="45" height="45" alt="Rust" /><br>Rust</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=solidity" width="45" height="45" alt="Solidity" /><br>Solidity</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=java" width="45" height="45" alt="Java" /><br>Java</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=cpp" width="45" height="45" alt="C++" /><br>C++</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=csharp" width="45" height="45" alt="C#" /><br>C#</td>
   </tr>
+  
+  <!-- Web Development -->
+  <tr><th colspan="8" align="center" style="color:white;">Web Development</th></tr>
   <tr>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=cpp" width="45" height="45" alt="C++" />
-      <br>C++
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=csharp" width="45" height="45" alt="C#" />
-      <br>C#
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=go" width="45" height="45" alt="Go" />
-      <br>Go
-    </td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=html" width="45" height="45" alt="HTML" /><br>HTML</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=css" width="45" height="45" alt="CSS" /><br>CSS</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=nodejs" width="45" height="45" alt="Node.js" /><br>Node.js</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=express" width="45" height="45" alt="Express" /><br>Express</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=react" width="45" height="45" alt="React" /><br>React</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=vue" width="45" height="45" alt="Vue" /><br>Vue.js</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=nextjs" width="45" height="45" alt="Next.js" /><br>Next.js</td>
   </tr>
+  
+  <!-- DevOps & Cloud -->
+  <tr><th colspan="8" align="center" style="color:white;">DevOps & Cloud</th></tr>
   <tr>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=docker" width="45" height="45" alt="Docker" />
-      <br>Docker
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=kubernetes" width="45" height="45" alt="Kubernetes" />
-      <br>Kubernetes
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=aws" width="45" height="45" alt="AWS" />
-      <br>AWS
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=azure" width="45" height="45" alt="Azure" />
-      <br>Azure
-    </td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=kubernetes" width="45" height="45" alt="Kubernetes" /><br>Kubernetes</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=docker" width="45" height="45" alt="Docker" /><br>Docker</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=aws" width="45" height="45" alt="AWS" /><br>AWS</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=azure" width="45" height="45" alt="Azure" /><br>Azure</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=terraform" width="45" height="45" alt="Terraform" /><br>Terraform</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=jenkins" width="45" height="45" alt="Jenkins" /><br>Jenkins</td>
   </tr>
+  
+  <!-- Game Development & Design -->
+  <tr><th colspan="8" align="center" style="color:white;">Game Development & Design</th></tr>
   <tr>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=tensorflow" width="45" height="45" alt="TensorFlow" />
-      <br>TensorFlow
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=pytorch" width="45" height="45" alt="PyTorch" />
-      <br>PyTorch
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=huggingface" width="45" height="45" alt="Hugging Face" />
-      <br>Hugging Face
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=openai" width="45" height="45" alt="OpenAI API" />
-      <br>OpenAI API
-    </td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=unity" width="45" height="45" alt="Unity" /><br>Unity</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=unreal" width="45" height="45" alt="Unreal Engine" /><br>Unreal Engine</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=blender" width="45" height="45" alt="Blender" /><br>Blender</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=figma" width="45" height="45" alt="Figma" /><br>Figma</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=photoshop" width="45" height="45" alt="Photoshop" /><br>Photoshop</td>
   </tr>
+  
+  <!-- Testing & QA -->
+  <tr><th colspan="8" align="center" style="color:white;">Testing & QA</th></tr>
   <tr>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=figma" width="45" height="45" alt="Figma" />
-      <br>Figma
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=photoshop" width="45" height="45" alt="Photoshop" />
-      <br>Photoshop
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=xd" width="45" height="45" alt="Adobe XD" />
-      <br>Adobe XD
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=unity" width="45" height="45" alt="Unity" />
-      <br>Unity
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=unreal" width="45" height="45" alt="Unreal Engine" />
-      <br>Unreal Engine
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=blender" width="45" height="45" alt="Blender" />
-      <br>Blender
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=jira" width="45" height="45" alt="Jira" />
-      <br>Jira
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=trello" width="45" height="45" alt="Trello" />
-      <br>Trello
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=notion" width="45" height="45" alt="Notion" />
-      <br>Notion
-    </td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=selenium" width="45" height="45" alt="Selenium" /><br>Selenium</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=cypress" width="45" height="45" alt="Cypress" /><br>Cypress</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=jest" width="45" height="45" alt="Jest" /><br>Jest</td>
   </tr>
 </table>
+
 
 </p>
