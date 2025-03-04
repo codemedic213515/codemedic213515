@@ -169,11 +169,11 @@
   </tr>
    <tr>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=rust" width="45" height="45" alt="Tailwind CSS" />
+      <img src="https://skillicons.dev/icons?i=rust" width="45" height="45" alt="Rust" />
       <br>Tailwind CSS
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=materialui" width="45" height="45" alt="MUI v5" />
+      <img src="https://skillicons.dev/icons?i=solidity" width="45" height="45" alt="Solidity" />
       <br>MaterialUI
     </td>
     <td align="center" width="90">
