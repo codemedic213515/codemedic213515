@@ -50,7 +50,7 @@
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=solidity"> Solidity</td>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=java"> Java</td>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=cpp"> C++</td>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=cs"> C # </td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=cs">   C#</td>
   </tr>
 
   <!-- Web Development -->
