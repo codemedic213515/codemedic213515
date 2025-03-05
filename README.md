@@ -43,105 +43,105 @@
   <!-- Programming Languages -->
   <tr><th colspan="8" align="center" style="color:white;">Programming Languages</th></tr>
   <tr>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=js"> JavaScript</td>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=ts"> TypeScript</td>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=python"> Python</td>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=rust"> Rust</td>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=solidity"> Solidity</td>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=java"> Java</td>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=cpp"> C++</td>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=cs">   C#</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=js"><p> JavaScript</p></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=ts"><p> TypeScript</p></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=python"><p> Python</p></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=rust"><p> Rust</p></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=solidity"><p> Solidity</p></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=java"><p> Java</p></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=cpp"><p> C++</p></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=cs"><p>  C#</p></td>
   </tr>
 
   <!-- Web Development -->
   <tr><th colspan="8" align="center" style="color:white;">Web Development</th></tr>
   <tr>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=html"> HTML</td>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=css"> CSS</td>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=nodejs"> Node.js</td>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=express"> Express</td>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=react"> React</td>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=vue"> Vue.js</td>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=nextjs"> Next.js</td>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=graphql"> GraphQL</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=html"><p> HTML</p></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=css"><p> CSS</p></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=nodejs"><p> Node.js</p></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=express"><p> Express</p></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=react"><p> React</p></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=vue"><p> Vue.js</p></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=nextjs"><p> Next.js</p></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=graphql"><p> GraphQL</p></td>
   </tr>
 
   <!-- Project Management & Testing Tools -->
   <tr><th colspan="8" align="center" style="color:white;">Project Management & Testing Tools</th></tr>
   <tr>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=jira"> Jira</td>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=trello"> Trello</td>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=notion"> Notion</td>
-    <td align="center" width="90"> Selenium</td>
-    <td align="center" width="90"> Cypress</td>
-    <td align="center" width="90"> Jest</td>
-    <td align="center" width="90"> Mocha</td>
-    <td align="center" width="90"> Chai</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=jira"><p> Jira</p></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=trello"><p> Trello</p></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=notion"><p> Notion</p></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=selenium"><p> Selenium</p></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=cypress"><p> Cypress</p></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=jest"><p> Jest</p></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=mocha"><p> Mocha</p></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=chai"><p> Chai</p></td>
   </tr>
 
   <!-- Smart Contract Testing & Audit Tools -->
   <tr><th colspan="8" align="center" style="color:white;">Smart Contract Testing & Audit Tools</th></tr>
   <tr>
-    <td align="center" width="90"> Truffle</td>
-    <td align="center" width="90"> Hardhat</td>
-    <td align="center" width="90"> MythX</td>
-    <td align="center" width="90"> Slither</td>
-    <td align="center" width="90"> Echidna</td>
-    <td align="center" width="90"> Manticore</td>
-    <td align="center" width="90"> Certora</td>
-    <td align="center" width="90"> Oyente</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=truffle"><p> Truffle</p></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=hardhat"><p> Hardhat</p></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=mythX"><p> MythX</p></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=slither"><p> Slither</p></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=echidna"><p> Echidna</p></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=manticore"><p> Manticore</p></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=certora"><p> Certora</p></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=oyente"><p> Oyente</p></td>
   </tr>
 
   <!-- Web3 & Blockchain Technologies -->
   <tr><th colspan="8" align="center" style="color:white;">Web3 & Blockchain Technologies</th></tr>
   <tr>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=ethereum"> Ethereum</td>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=solana"> Solana</td>
-    <td align="center" width="90"> Polygon</td>
-    <td align="center" width="90"> Substrate</td>
-    <td align="center" width="90"> Cosmos</td>
-    <td align="center" width="90"> XRP</td>
-    <td align="center" width="90"> Web3.js</td>
-    <td align="center" width="90"> Hardhat</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=ethereum"><p> Ethereum</p></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=solana"><p> Solana</p></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=polygon"><p> Polygon</p></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=substrate"><p> Substrate</p></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=cosmos"><p> Cosmos</p></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=bittensor"><p> Bittensor</p></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=xrp"><p> XRP</p></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=web3js"><p> Web3.js</p></td>
   </tr>
 
   <!-- 3D Modeling, AR/VR & Game Development -->
   <tr><th colspan="8" align="center" style="color:white;">3D Modeling, AR/VR & Game Development</th></tr>
   <tr>
-    <td align="center" width="90"> Unity</td>
-    <td align="center" width="90"> Unreal Engine</td>
-    <td align="center" width="90"> Blender</td>
-    <td align="center" width="90"> Three.js</td>
-    <td align="center" width="90"> A-Frame</td>
-    <td align="center" width="90"> Godot</td>
-    <td align="center" width="90"> Oculus VR</td>
-    <td align="center" width="90"> Hololens</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=unity"><p> Unity</p></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=unrealengine"><p> Unreal Engine</p></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=blender"><p> Blender</p></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=threejs"><p> Three.js</p></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=aframe"><p> A-Frame</p></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=godot"><p> Godot</p></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=oculus"><p> Oculus VR</p></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=hololens"><p> Hololens</p></td>
   </tr>
 
   <!-- Graphic Design & UI/UX Tools -->
   <tr><th colspan="8" align="center" style="color:white;">Graphic Design & UI/UX Tools</th></tr>
   <tr>
-    <td align="center" width="90"> Figma</td>
-    <td align="center" width="90"> Adobe XD</td>
-    <td align="center" width="90"> Photoshop</td>
-    <td align="center" width="90"> Illustrator</td>
-    <td align="center" width="90"> Sketch</td>
-    <td align="center" width="90"> InVision</td>
-    <td align="center" width="90"> Affinity Designer</td>
-    <td align="center" width="90"> CorelDRAW</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=figma"><p> Figma</p></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=xd"><p> Adobe XD</p></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=photoshop"><p> Photoshop</p></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=illustrator"><p> Illustrator</p></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=sketch"><p> Sketch</p></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=inVision"><p> InVision</p></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=affinity"><p> Affinity Designer</p></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=corelDRAW"><p> CorelDRAW</p></td>
   </tr>
 
   <!-- Database & Security -->
   <tr><th colspan="8" align="center" style="color:white;">Database & Security</th></tr>
   <tr>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=mysql"> MySQL</td>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=postgres"> PostgreSQL</td>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=mongodb"> MongoDB</td>
-    <td align="center" width="90"> Redis</td>
-    <td align="center" width="90"> Firebase</td>
-    <td align="center" width="90"> DynamoDB</td>
-    <td align="center" width="90"> Supabase</td>
-    <td align="center" width="90"> Oracle</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=mysql"><p> MySQL</p></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=postgres"><p> PostgreSQL</p></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=mongodb"><p> MongoDB</p></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=redis"><p> Redis</p></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=firebase"><p> Firebase</p></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=dynamoDB"><p> DynamoDB</p></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=supabase"><p> Supabase</p></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=oracle"><p> Oracle</p></td>
   </tr>
 </table>
 
