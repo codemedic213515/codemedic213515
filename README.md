@@ -43,42 +43,42 @@
   <!-- Programming Languages -->
   <tr><th colspan="8" align="center" style="color:white;">Programming Languages</th></tr>
   <tr>
-    <td align="center" width="90">JavaScript</td>
-    <td align="center" width="90">TypeScript</td>
-    <td align="center" width="90">Python</td>
-    <td align="center" width="90">Rust</td>
-    <td align="center" width="90">Solidity</td>
-    <td align="center" width="90">Java</td>
-    <td align="center" width="90">C++</td>
-    <td align="center" width="90">C#</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript"></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript"></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=python" alt="Python"></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=rust" alt="Rust"></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=solidity" alt="Solidity"></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=java" alt="Java"></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=cpp" alt="C++"></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=cs" alt="C#"></td>
   </tr>
-  
+
   <!-- Web Development -->
   <tr><th colspan="8" align="center" style="color:white;">Web Development</th></tr>
   <tr>
-    <td align="center" width="90">HTML</td>
-    <td align="center" width="90">CSS</td>
-    <td align="center" width="90">Node.js</td>
-    <td align="center" width="90">Express</td>
-    <td align="center" width="90">React</td>
-    <td align="center" width="90">Vue.js</td>
-    <td align="center" width="90">Next.js</td>
-    <td align="center" width="90">GraphQL</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=html" alt="HTML"></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=css" alt="CSS"></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js"></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=express" alt="Express"></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=react" alt="React"></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=vue" alt="Vue.js"></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js"></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=graphql" alt="GraphQL"></td>
   </tr>
-  
+
   <!-- Project Management & Testing Tools -->
   <tr><th colspan="8" align="center" style="color:white;">Project Management & Testing Tools</th></tr>
   <tr>
-    <td align="center" width="90">Jira</td>
-    <td align="center" width="90">Trello</td>
-    <td align="center" width="90">Notion</td>
-    <td align="center" width="90">Selenium</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=jira" alt="Jira"></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=trello" alt="Trello"></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=notion" alt="Notion"></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=selenium" alt="Selenium"></td>
     <td align="center" width="90">Cypress</td>
     <td align="center" width="90">Jest</td>
     <td align="center" width="90">Mocha</td>
     <td align="center" width="90">Chai</td>
   </tr>
-  
+
   <!-- Smart Contract Testing & Audit Tools -->
   <tr><th colspan="8" align="center" style="color:white;">Smart Contract Testing & Audit Tools</th></tr>
   <tr>
@@ -91,12 +91,12 @@
     <td align="center" width="90">Certora</td>
     <td align="center" width="90">Oyente</td>
   </tr>
-  
+
   <!-- Web3 & Blockchain Technologies -->
   <tr><th colspan="8" align="center" style="color:white;">Web3 & Blockchain Technologies</th></tr>
   <tr>
-    <td align="center" width="90">Ethereum</td>
-    <td align="center" width="90">Solana</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=ethereum" alt="Ethereum"></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=solana" alt="Solana"></td>
     <td align="center" width="90">Polygon</td>
     <td align="center" width="90">Substrate</td>
     <td align="center" width="90">Cosmos</td>
@@ -104,7 +104,7 @@
     <td align="center" width="90">Web3.js</td>
     <td align="center" width="90">Hardhat</td>
   </tr>
-  
+
   <!-- 3D Modeling, AR/VR & Game Development -->
   <tr><th colspan="8" align="center" style="color:white;">3D Modeling, AR/VR & Game Development</th></tr>
   <tr>
@@ -134,9 +134,9 @@
   <!-- Database & Security -->
   <tr><th colspan="8" align="center" style="color:white;">Database & Security</th></tr>
   <tr>
-    <td align="center" width="90">MySQL</td>
-    <td align="center" width="90">PostgreSQL</td>
-    <td align="center" width="90">MongoDB</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL"></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL"></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB"></td>
     <td align="center" width="90">Redis</td>
     <td align="center" width="90">Firebase</td>
     <td align="center" width="90">DynamoDB</td>
@@ -144,4 +144,5 @@
     <td align="center" width="90">Oracle</td>
   </tr>
 </table>
+
 </p>
