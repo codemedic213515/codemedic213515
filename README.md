@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/codemedic213515">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=45&duration=2000&pause=1000&color=AAAAAA&center=true&vCenter=true&random=false&width=1200&height=100&lines=Full+-+Stack+Developer;Blockchain+%26+Web3+Specialist;AI+Solutions+Architect;Innovating+Healthcare+with+Technology;Web+/+Logo+Designer">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=45&duration=2000&pause=1001&color=AAAAAA&center=true&vCenter=true&random=false&width=1200&height=100&lines=Full+-+Stack+Developer;Blockchain+%26+Web3+Specialist;AI+Solutions+Architect;Innovating+Healthcare+with+Technology;Web+/+Logo+Designer">
   </a>
 </p>
 
