@@ -35,12 +35,11 @@
 
 </div>
 
-###
+<!--###
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
 <table align="center" style="background-color:#0A0A0A;">
   
-  <!-- Programming Languages -->
   <tr><th colspan="8" align="center" style="color:white;">Programming Languages</th></tr>
   <tr>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=js"><p> JavaScript</p></td>
@@ -53,7 +52,6 @@
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=cs"><p>  C#</p></td>
   </tr>
 
-  <!-- Web Development -->
   <tr><th colspan="8" align="center" style="color:white;">Web Development</th></tr>
   <tr>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=html"><p> HTML</p></td>
@@ -66,7 +64,6 @@
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=graphql"><p> GraphQL</p></td>
   </tr>
 
-  <!-- Project Management & Testing Tools -->
   <tr><th colspan="8" align="center" style="color:white;">Project Management & Testing Tools</th></tr>
   <tr>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=jira"><p> Jira</p></td>
@@ -79,7 +76,6 @@
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=chai"><p> Chai</p></td>
   </tr>
 
-  <!-- Smart Contract Testing & Audit Tools -->
   <tr><th colspan="8" align="center" style="color:white;">Smart Contract Testing & Audit Tools</th></tr>
   <tr>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=truffle"><p> Truffle</p></td>
@@ -92,7 +88,6 @@
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=oyente"><p> Oyente</p></td>
   </tr>
 
-  <!-- Web3 & Blockchain Technologies -->
   <tr><th colspan="8" align="center" style="color:white;">Web3 & Blockchain Technologies</th></tr>
   <tr>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=ethereum"><p> Ethereum</p></td>
@@ -105,7 +100,6 @@
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=web3js"><p> Web3.js</p></td>
   </tr>
 
-  <!-- 3D Modeling, AR/VR & Game Development -->
   <tr><th colspan="8" align="center" style="color:white;">3D Modeling, AR/VR & Game Development</th></tr>
   <tr>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=unity"><p> Unity</p></td>
@@ -118,7 +112,6 @@
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=hololens"><p> Hololens</p></td>
   </tr>
 
-  <!-- Graphic Design & UI/UX Tools -->
   <tr><th colspan="8" align="center" style="color:white;">Graphic Design & UI/UX Tools</th></tr>
   <tr>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=figma"><p> Figma</p></td>
@@ -131,7 +124,6 @@
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=corelDRAW"><p> CorelDRAW</p></td>
   </tr>
 
-  <!-- Database & Security -->
   <tr><th colspan="8" align="center" style="color:white;">Database & Security</th></tr>
   <tr>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=mysql"><p> MySQL</p></td>
@@ -143,6 +135,6 @@
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=supabase"><p> Supabase</p></td>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=oracle"><p> Oracle</p></td>
   </tr>
-</table>
+</table>-->
 
 </p>
