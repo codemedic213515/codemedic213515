@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=45&duration=2500&pause=1500&color=AAAAAA&center=true&vCenter=true&random=false&width=1200&height=100&lines=Full+-+Stack+Developer;Blockchain+%26+Web3+Specialist;AI+Solutions+Architect;Innovating+Healthcare+with+Technology;Web+/+Logo+Designer">
   </a>
 </p>
-###
+
 
 <div align="center">
   <img src="https://amateur0911.vercel.app/api?username=codemedic213515&include_all_commits=true&count_private=true&show_icons=true&line_height=30&theme=nightowl" height="150" alt="Codemedic213515 Github Stats">
