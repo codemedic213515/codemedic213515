@@ -15,7 +15,7 @@
   <img 
   src="https://amateur0913.vercel.app/api/cards/repos-per-language?username=codemedic213515&theme=nightowl&include_all_commits=true&show_icons=true&line_height=30&count_private=true" 
   height="150" 
-  alt="Codemedic213515's Repos Per Language" 
+  alt="Codemedic213515's Repo Per Language" 
   style="border: 2px solid #AAAAAA; border-radius: 8px;"
   />
   <img 
